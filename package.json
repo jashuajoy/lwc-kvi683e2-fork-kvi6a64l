@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jashuajoy.lwc-kvi683e2-fork-kvi6a64l",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4d6PE36nEkRHC3IamD6K --open"
+  }
+}
